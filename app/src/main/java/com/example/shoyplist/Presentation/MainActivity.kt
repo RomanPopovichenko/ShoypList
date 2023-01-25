@@ -1,7 +1,8 @@
-package com.example.shoyplist
+package com.example.shoyplist.Presentation
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.shoyplist.R
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
